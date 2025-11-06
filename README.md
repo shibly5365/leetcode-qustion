@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shibly5365/leetcode-qustion/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibly5365/leetcode-qustion/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/shibly5365/leetcode-qustion/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibly5365/leetcode-qustion/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shibly5365/leetcode-qustion/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shibly5365/leetcode-qustion/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shibly5365/leetcode-qustion/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shibly5365/leetcode-qustion/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shibly5365/leetcode-qustion/tree/master/0058-length-of-last-word) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shibly5365/leetcode-qustion/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shibly5365/leetcode-qustion/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
