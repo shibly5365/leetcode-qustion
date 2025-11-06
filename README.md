@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shibly5365/leetcode-qustion/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibly5365/leetcode-qustion/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/shibly5365/leetcode-qustion/tree/master/1635-number-of-good-pairs) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/shibly5365/leetcode-qustion/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shibly5365/leetcode-qustion/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shibly5365/leetcode-qustion/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shibly5365/leetcode-qustion/tree/master/0049-group-anagrams) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/shibly5365/leetcode-qustion/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shibly5365/leetcode-qustion/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/shibly5365/leetcode-qustion/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
