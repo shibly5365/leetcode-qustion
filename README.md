@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibly5365/leetcode-qustion/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/shibly5365/leetcode-qustion/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shibly5365/leetcode-qustion/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shibly5365/leetcode-qustion/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shibly5365/leetcode-qustion/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shibly5365/leetcode-qustion/tree/master/0070-climbing-stairs) |
 | [1635-number-of-good-pairs](https://github.com/shibly5365/leetcode-qustion/tree/master/1635-number-of-good-pairs) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shibly5365/leetcode-qustion/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
 | ------- |
