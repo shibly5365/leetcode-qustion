@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shibly5365/leetcode-qustion/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shibly5365/leetcode-qustion/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shibly5365/leetcode-qustion/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/shibly5365/leetcode-qustion/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/shibly5365/leetcode-qustion/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shibly5365/leetcode-qustion/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibly5365/leetcode-qustion/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shibly5365/leetcode-qustion/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/shibly5365/leetcode-qustion/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
