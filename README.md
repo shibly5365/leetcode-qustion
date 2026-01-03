@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shibly5365/leetcode-qustion/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shibly5365/leetcode-qustion/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/shibly5365/leetcode-qustion/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/shibly5365/leetcode-qustion/tree/master/0371-sum-of-two-integers) |
 | [1635-number-of-good-pairs](https://github.com/shibly5365/leetcode-qustion/tree/master/1635-number-of-good-pairs) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shibly5365/leetcode-qustion/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shibly5365/leetcode-qustion/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/shibly5365/leetcode-qustion/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shibly5365/leetcode-qustion/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/shibly5365/leetcode-qustion/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
