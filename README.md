@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shibly5365/leetcode-qustion/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shibly5365/leetcode-qustion/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shibly5365/leetcode-qustion/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/shibly5365/leetcode-qustion/tree/master/0371-sum-of-two-integers) |
 | [1635-number-of-good-pairs](https://github.com/shibly5365/leetcode-qustion/tree/master/1635-number-of-good-pairs) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shibly5365/leetcode-qustion/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
