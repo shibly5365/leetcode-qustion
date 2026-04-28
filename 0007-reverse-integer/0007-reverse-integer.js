@@ -2,18 +2,15 @@
  * @param {number} x
  * @return {number}
  */
-var reverse = function(x) {
-   let rev = 0;
-    let sign = x < 0 ? -1 : 1;
-    x = Math.abs(x);
+var reverse = function (x) {
+    const sign = x < 0 ? -1 : 1;
+    const str = Math.abs(x).toString();
+    const ans = str.split('').reverse().join('');
+    const num = sign * parseInt(ans);
 
-    while (x > 0) {
-        const digit = x % 10;
-        x = Math.floor(x / 10);
-        if (rev > Math.floor((2**31 - 1) / 10)) return 0;
-
-        rev = rev * 10 + digit;
+    if (num < -(2 ** 31) || num > (2 ** 31 - 1)) {
+        return 0;
     }
 
-    return rev * sign;
+    return num;
 };
