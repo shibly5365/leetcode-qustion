@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shibly5365/leetcode-qustion/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shibly5365/leetcode-qustion/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibly5365/leetcode-qustion/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shibly5365/leetcode-qustion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibly5365/leetcode-qustion/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/shibly5365/leetcode-qustion/tree/master/1635-number-of-good-pairs) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shibly5365/leetcode-qustion/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibly5365/leetcode-qustion/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/shibly5365/leetcode-qustion/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shibly5365/leetcode-qustion/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
