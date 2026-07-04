@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shibly5365/leetcode-qustion/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shibly5365/leetcode-qustion/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shibly5365/leetcode-qustion/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibly5365/leetcode-qustion/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0414-third-maximum-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shibly5365/leetcode-qustion/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shibly5365/leetcode-qustion/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/shibly5365/leetcode-qustion/tree/master/0389-find-the-difference) |
 ## Two Pointers
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shibly5365/leetcode-qustion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/shibly5365/leetcode-qustion/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shibly5365/leetcode-qustion/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shibly5365/leetcode-qustion/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibly5365/leetcode-qustion/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shibly5365/leetcode-qustion/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shibly5365/leetcode-qustion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibly5365/leetcode-qustion/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/shibly5365/leetcode-qustion/tree/master/0367-valid-perfect-square) |
 ## Queue
