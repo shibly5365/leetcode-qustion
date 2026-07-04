@@ -16,5 +16,5 @@ var findMin = function (nums) {
         }
     }
 
-    return nums[right];
+    return nums[left];
 };
