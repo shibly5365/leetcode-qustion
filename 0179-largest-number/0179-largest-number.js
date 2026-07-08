@@ -3,13 +3,10 @@
  * @return {string}
  */
 var largestNumber = function (nums) {
-    nums = nums.map(String);
+    let result = nums
+        .map(String)
+        .sort((a, b) => (b + a) - (a + b))
+        .join("");
 
-    nums.sort((a, b) => (b + a).localeCompare(a + b));
-
-    if (nums[0] === "0") {
-        return "0";
-    }
-
-    return nums.join("");
+    return result[0] === "0" ? "0" : result;
 };
