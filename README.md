@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shibly5365/leetcode-qustion/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shibly5365/leetcode-qustion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shibly5365/leetcode-qustion/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/shibly5365/leetcode-qustion/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shibly5365/leetcode-qustion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shibly5365/leetcode-qustion/tree/master/0217-contains-duplicate) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shibly5365/leetcode-qustion/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shibly5365/leetcode-qustion/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shibly5365/leetcode-qustion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shibly5365/leetcode-qustion/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0268-missing-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shibly5365/leetcode-qustion/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shibly5365/leetcode-qustion/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shibly5365/leetcode-qustion/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/shibly5365/leetcode-qustion/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shibly5365/leetcode-qustion/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shibly5365/leetcode-qustion/tree/master/0387-first-unique-character-in-a-string) |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shibly5365/leetcode-qustion/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/shibly5365/leetcode-qustion/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
