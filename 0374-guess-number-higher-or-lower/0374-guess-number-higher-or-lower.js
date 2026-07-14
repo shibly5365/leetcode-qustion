@@ -12,18 +12,19 @@
  * @return {number}
  */
 var guessNumber = function(n) {
-    let left = 1
-    let right =n
-    while(left <= right){
-        let mid = Math.floor(left +(right-left)/2)
-            let result = guess(mid);
+   let left = 1
+    let right = n
 
-        if (result === 0) {
-            return mid;
-        } else if (result === -1) {
-            right = mid - 1;
+    while (true) {
+        let mid = left + Math.floor((right - left) / 2)
+        let res = guess(mid)
+
+        if (res === 1) {
+           left = mid + 1
+        } else if (res === -1) {
+           right = mid - 1
         } else {
-            left = mid + 1;
+            return mid
         }
     }
 };
